@@ -1,6 +1,6 @@
 ## Demo CIT Code Portfolio Page
 
-![haha](images/haha.png)
+![haha](/images/haha.png)
 
 
 education.github.com
