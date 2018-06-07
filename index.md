@@ -1,5 +1,7 @@
 ## Demo CIT Code Portfolio Page
 
+![haha](images/haha.png)
+
 
 education.github.com
 We are using Github's education service to host student repos for webDev courses.
