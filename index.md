@@ -1,13 +1,13 @@
-##Demo CIT Code Portfolio Page
+## Demo CIT Code Portfolio Page
 
 
 education.github.com
 We are using Github's education service to host student repos for webDev courses.
 
-##UO CIT Minor
+## UO CIT Minor
 The computer science department offers a Computer and Information Technology (CIT) minor, which emphasizes open-source technology and computing skills such as web development, networks, database programming and cloud computing. Read more about the CIT minor at cs.uoregon.edu.
 
-##What the CIT Minor is About
+## What the CIT Minor is About
 From logical thought to programming, database concepts to website architecture, information privacy and security to networking and multimedia, the CIT minor is designed to help you understand how Information and Web technologies can be used to transform information in your own field of study.
 
 The CIT minor uses open-source web technologies, networks, databases and cloud-computing to create, store, transmit and publish content on the world wide web, and cloud servers.
