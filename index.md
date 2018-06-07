@@ -17,4 +17,4 @@ In the first year of the minor students learn IT concepts (such as networks, dat
 
 In the second year of the minor, students study the following topics: database design, webDev frameworks, computer networks & cyber-security.
 
-[Project 5](https://dylanl8.github.io/)
+[CIT 821 Project 5](https://dylanl8.github.io/)
